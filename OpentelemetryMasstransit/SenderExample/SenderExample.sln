@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiSender", "ApiSender\ApiSender.csproj", "{ADBFDE3F-7776-4236-9DDA-93C56B7458C1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "..\Shared\Shared.csproj", "{9EC3D52F-6820-4D9E-872B-87C017644A25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBFDE3F-7776-4236-9DDA-93C56B7458C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBFDE3F-7776-4236-9DDA-93C56B7458C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBFDE3F-7776-4236-9DDA-93C56B7458C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBFDE3F-7776-4236-9DDA-93C56B7458C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EC3D52F-6820-4D9E-872B-87C017644A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC3D52F-6820-4D9E-872B-87C017644A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC3D52F-6820-4D9E-872B-87C017644A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC3D52F-6820-4D9E-872B-87C017644A25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAAEC9DD-20EA-4DF5-9BA3-4A5D414618E4}
+	EndGlobalSection
+EndGlobal
